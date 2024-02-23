@@ -24,6 +24,7 @@ def binarySearch(array, left, right, x):
     return -1
 
 
+# Main function of program
 def main():
     # Array to test on
     array = [2, 4, 13, 19, 23, 34, 37, 51, 59, 62, 63]
